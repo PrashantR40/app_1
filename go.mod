@@ -48,7 +48,7 @@ require (
 	github.com/vmware-tanzu/sonobuoy v0.57.2
 	github.com/zcalusic/sysinfo v1.1.2
 	go.etcd.io/etcd/api/v3 v3.5.16
-	go.etcd.io/etcd/client/pkg/v3 v3.5.16
+	go.etcd.io/etcd/client/pkg/v3 v3.5.17
 	go.etcd.io/etcd/client/v3 v3.5.16
 	go.etcd.io/etcd/etcdutl/v3 v3.5.16
 	go.uber.org/zap v1.27.0
